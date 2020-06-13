@@ -1,0 +1,14 @@
+[data-bubble-tabs] {
+  background-color: pink;
+  display: flex;
+  justify-content: space-around;
+}
+
+[data-bubble-tab] {
+  background-color: blue;
+  padding: 20px;
+}
+
+[data-bubble-tab-active] {
+  background-color: green;
+}
